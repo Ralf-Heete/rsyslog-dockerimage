@@ -1,0 +1,14 @@
+2023-08-30T15:33:03.879738+02:00 rsyslog : cannot create '/run/rsyslog/socket': No such file or directory [v8.2306.0 try https://www.rsyslog.com/e/2176 ]
+2023-08-30T15:33:03.879765+02:00 rsyslog : [origin software="rsyslogd" swVersion="8.2306.0" x-pid="1" x-info="https://www.rsyslog.com"] start
+2023-08-30T15:37:26.761956+02:00 rsyslog : cannot create '/run/rsyslog/socket': No such file or directory [v8.2306.0 try https://www.rsyslog.com/e/2176 ]
+2023-08-30T15:37:26.761976+02:00 rsyslog : [origin software="rsyslogd" swVersion="8.2306.0" x-pid="1" x-info="https://www.rsyslog.com"] start
+2023-08-30T15:49:05.050927+02:00 rsyslog : cannot create '/run/rsyslog/socket': No such file or directory [v8.2306.0 try https://www.rsyslog.com/e/2176 ]
+2023-08-30T15:49:05.050957+02:00 rsyslog : [origin software="rsyslogd" swVersion="8.2306.0" x-pid="1" x-info="https://www.rsyslog.com"] start
+2023-08-30T15:49:25.451037+02:00 rsyslog su: + pts/0 root:admin
+2023-08-30T16:01:40.252259+02:00 rsyslog : cannot create '/run/rsyslog/socket': No such file or directory [v8.2306.0 try https://www.rsyslog.com/e/2176 ]
+2023-08-30T16:01:40.252298+02:00 rsyslog : [origin software="rsyslogd" swVersion="8.2306.0" x-pid="1" x-info="https://www.rsyslog.com"] start
+2023-08-30T16:02:25.592781+02:00 rsyslog su: + pts/0 root:admin
+2023-08-30T16:05:03.542973+02:00 rsyslog : cannot create '/run/rsyslog/socket': No such file or directory [v8.2306.0 try https://www.rsyslog.com/e/2176 ]
+2023-08-30T16:05:03.542988+02:00 rsyslog : [origin software="rsyslogd" swVersion="8.2306.0" x-pid="1" x-info="https://www.rsyslog.com"] start
+2023-08-30T16:08:11.360637+02:00 rsyslog : cannot create '/run/rsyslog/socket': No such file or directory [v8.2306.0 try https://www.rsyslog.com/e/2176 ]
+2023-08-30T16:08:11.360655+02:00 rsyslog : [origin software="rsyslogd" swVersion="8.2306.0" x-pid="1" x-info="https://www.rsyslog.com"] start
